@@ -1663,7 +1663,6 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?tecnotv.info?i
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1,ARGENTINA:America
 http://level3itvo.cdnar.net/itvmedia/16/1/channel_000.m3u8
-#EXTINF:0,DEPORTV ARG
 #EXTGRP:VARIADO
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1523138068_b800000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO", Canal 3 (Argentina)
@@ -2174,24 +2173,6 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1,ARGENTINA:Radio TV Neuquen
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/StkPNjx.png" group-title="Canales Colombianos", Canal 14 | SD
-http://181.143.238.252/live/livestream/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/dmHjzfS.png" group-title="Canales Colombianos", Tele Islas | SD
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/hyhW1VD.png" group-title="Canales Colombianos", Señal Colombia | SD
-http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/LjJzO0s.jpg" group-title="Canales Colombianos", Tele Medellin | HD
-http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/J84cit3.jpg" group-title="Canales Colombianos", Telecaribe | HD
-http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/BskLVm4.jpg" group-title="Canales Colombianos", Telecaribe Deportes | HD
-http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 
 #EXTM3U
 
@@ -3248,76 +3229,6 @@ http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
 #EXTINF:-1,Urban 106.1 FM Pehuajo
 http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
 
-
-#EXTINF:-1,UTV (Opt-1)
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-
-#EXTINF:-1,V M?s TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
-
-#EXTINF:-1,Vastmanlands TV
-http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w404315212.m3u8
-
-#EXTINF:-1,Vaughan TV
-http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
-
-#EXTINF:-1,Ve Plus
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-
-#EXTINF:-1,Ve plus TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8?
-
-#EXTINF:-1,Ve plus TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
-#EXTINF:-1,Vega Baja TV
-http://185.29.68.24/tvb.m3u8
-
-#EXTINF:-1,Velocity
-http://channels.premiumtutv.com/stream_47_sk_st.index.m3u8
-
-#EXTINF:-1,Vendhar TV
-http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
-
-#EXTINF:-1,Venere in pellicci@
-http://media.tuboitaliano.xxx:81/videos/5/6/5/5/8/565582e84e062.mp4
-
-#EXTINF:-1,Vh1HD
-http://vignette2.wikia.nocookie.net/logosfake/images/0/03/VH1_HD.png/revision/latest?cb=20140519124519,Vh1HD
-
-#EXTINF:-1,VIBE
-http://46.101.21.42:8081/live/live2/playlist.m3u8
-
-#EXTINF:-1,Video Brescia
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-
-#EXTINF:-1,Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-
-#EXTINF:-1,Videolina
-http://178.33.229.111:1935/live/Videolina/livestream.m3u8
-
-#EXTINF:-1,Vin HD
-http://95.170.220.246:1213/hls/VinHD-M.m3u8
-
-#EXTINF:-1,Vin TV
-http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
-
-#EXTINF:-1,Virgin TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-
-#EXTINF:-1,Virgin TV Live http://tv.105.net:1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8
-http://tv.105.net:1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Vision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
-#EXTINF:-1,Vmas TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?www.tecnotv.info
-
-#EXTINF:-1,Vmeste RF
-http://cdn-10.bonus-tv.ru:80/vmesterf/index.m3u8
-
 #EXTINF:-1,VoA
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
@@ -3437,82 +3348,6 @@ http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
 #EXTINF:-1,XTREMOVISION
 http://extremo01.streamprolive.com/hls/live.m3u8
-
-#EXTINF:-1,XXX AdultosVOD3D-1+18 3D
-http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-
-#EXTINF:-1,XXX AdultosVOD3D-10+18 3D
-http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-
-#EXTINF:-1,XXX-Babes 19 TECNO-WILL
-http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
-
-#EXTINF:-1,XXX-Babes 2
-http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
-
-#EXTINF:-1,XXX-Babes 3
-http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
-
-#EXTINF:-1,XXX-Babes 4
-http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
-
-#EXTINF:-1,XXX-Babes 5
-http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
-
-#EXTINF:-1,XXX-Babes 6
-http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
-
-#EXTINF:-1,XXX-Babes 7
-http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
-
-#EXTINF:-1,XXX-Babes 8
-http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
-
-#EXTINF:-1,XXXVOD3D-11+18 3D
-http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-13+18 3D
-http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-15+18 3D
-http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-16+18 3D TECNO-WILL
-http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-20+18 3D
-http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-21+18 3D
-http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-25+18 3D
-http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-26+18 3D
-http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-3+18 3D
-http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-4+18 3D
-http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-5+18 3D
-http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-6+18 3D
-http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-7+18 3D
-http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-8+18 3D
-http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-9+18 3D
-http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
-
 #EXTINF:-1,Y2K
 http://i.imgur.com/BTiGp2B.png?tecnotv",Y2K
 
@@ -7381,9 +7216,6 @@ http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1,Azteca+ Plus
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,tvg-logo="52r9Jrf.jpg" group-title="Canales Italianos" Sky TG24 | SD
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
-
 #EXTINF:-1,GOLDEN PLUS
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
 
@@ -7544,9 +7376,6 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?sd=10&r
 
 #EXTINF:-1,CANAL 12
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=onVNova”
-
-#EXTINF:-1,group-title="CANALES PANAMA"
-http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
 
 #EXTINF:-1,CANAL 4 azteka
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
@@ -10849,11 +10678,6 @@ https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3
 #EXTINF:-1,CHILE:Nuble TV
 https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2wTZUm6" group-title="PELICULAS", Alien Covenant (2017)
-http://bit.ly/2wZ6k10
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wZc4t9" group-title="PELICULAS", Sandy Wexler (2017)
-http://bit.ly/2wVc9yV
 
 #EXTINF:-1tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"Nina mala
 http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4
@@ -14212,27 +14036,6 @@ http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",A+
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-
-#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Canales Italianos",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-
-#EXTINF:0 tvg-id="RaiNews.it" group-title="Canales Italianos",RAINEWS24
-http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="VOA.cl" group-title="Canales Italianos",VoA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Canales Italianos",Syria News
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-
-#EXTINF:0 tvg-id="ext" group-title="Canales Italianos",BBC Arabic Televison
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Canales Italianos",MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-
-#EXTINF:0 tvg-id="GalaTV.mx" group-title="Canales Italianos",Gala tv
-http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 
 
 
@@ -17661,8 +17464,7 @@ http://205.164.56.130:1935/radhames706/radhames706/playlist.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 #EXTINF:0, its supernatural network
 http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
-#EXTINF:0, ***CANALES ARREOLA****
-http://landiptv.live:8080/live/ricardo/ricardo/7
+
 #EXTINF:-1, TELENORD 8
 http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8
 
@@ -17676,8 +17478,6 @@ http://k4.usastreams.com/superC/superC_1/media_w27246718.m3u8
 http://184.154.28.210:1935/canal4/canal4/media_w1793076184.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8pbx0w7B8m0ymgPYU0H1KC2dNDOx48Yn24HPwTFe00JC7ym8Nrs6XbpY6X0INKYLqVSG=w300"group-title="Canales",IMPACTOVISION
 http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
-#EXTINF:0,********ARREOLA**********
-http://landiptv.live:8080/live/felix/felix/97747.M3U8
 #EXTINF:0, Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:0, TV Mas | SD
@@ -17877,3 +17677,4 @@ http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfire
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
