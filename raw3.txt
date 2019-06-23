@@ -18,11 +18,41 @@ https://www.youtube.com/watch?v=bYrtcxFtJ4M
 #EXTINF:-1 group-title="ACCION; FICCION",JURASSIC WORLD 2: EL REINO CAIDO
 https://ohmorescarewow.verystream.net/stream/E23WYcrsRmH/-NTjUGpD1cOr4jy6/Xjp07hAe1rUOEyvKtSbXBWOBOiRsSqXym_z734FJ-Ct1-IHiI_vk6eaVz_pvn6V5okkCqjOKRpoFmJvtc8uedkJT5Qs4fn7I3Y5Pwd07rZiy2NaKAABCIVHoT1_6sEw7u2iX_BlGwbp66_vtV7D-4M_McjmtE5zcUmoqguTjA_fm6BWd3dRzElEsFfO4yyZjSD4kUMJexbBAhMZ9rerWumbUGdienTgCUuhmK3Hlgo6g0vU9IXO2yB3X6jDmmNTIplz6xAq2aiCtgdZwolTWzmqZbTY36t3_mLdqp-5g6HgDg_zoBvqe9-mWxovoN5IvxujlcIeuITgUgzRhj9lb2ah8U9Ntyh9k9zAN-Sk2Y2Oghzbn0WpTst-c5vy-8NYmPS6bmfgu3HqEPK4so1IvE8CFQVXPLNI26Vakd6rcLvNH_Hil-JBDYaA-gDk7nDiMc3EW-Fgx6PMYc5hIokJISq8VJQ36q4W3nDowFc5kBEg/jur4ss1c.w0rl.th3.f4ll3n.k1ngd0m.2018.hdrip.720p.latino.mp4?mime=true
 
+#EXTINF:-1 group-title="ACCION; FICCION",LA GRAN MURALLA: TRAILER
+https://www.youtube.com/watch?time_continue=1&v=bwAxwNPNW1U
+
+#EXTINF:-1 group-title="ACCION; FICCION",LA GRAN MURALLA
+https://www1255.hlsmp4.com/token=3OYnnx8pkoc5TWS_WjFxSg/1561325053/0.0.0.0/49/9/53/b553f32603c04090d8ff6da56d3db539-720p.mp4
+
+#EXTINF:-1 group-title="ACCION; FICCION",MORIMOS JOVENES: TRAILER
+https://www.youtube.com/watch?v=duiOaZux5uo
+
+#EXTINF:-1 group-title="ACCION; FICCION",MORIMOS JOVENES (SUBTITULADO)
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/We.Die.Young.HDR.VOSE.mp4
+
+#EXTINF:-1 group-title="ACCION; FICCION",PLAN ESCAPE 3: TRAILER
+https://www.youtube.com/watch?v=eBrPYlleNmk
+
+#EXTINF:-1 group-title="ACCION; FICCION",PLAN ESCAPE 3 (SUBTITULADO)
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Escape.Plan.The.Extractors%20DvdRip%20Subtitulado.mp4
+
 #EXTINF:-1 group-title="ACCION; FICCION",PREDATOR: TRAILER
 https://www.youtube.com/watch?time_continue=72&v=IsoeUp0qy2M
 
 #EXTINF:-1 group-title="ACCION; FICCION",PREDATOR
 https://oql95e.oloadcdn.net/dl/l/vf9LXawMCTnQjteh/AtI9ilAtnzc/th3.pr3d4t0r.2018.hdrip.720p.latino.mp4?mime=true
+
+#EXTINF:-1 group-title="ACCION; FICCION",SOMBRA: TRAILER
+https://www.youtube.com/watch?v=9x6M4Vgfq1U
+
+#EXTINF:-1 group-title="ACCION; FICCION",SOMBRA (SUBTITULADO)
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/sh4d0w.2018.hc.hdrip.720p%20Subtitulado.mp4
+
+#EXTINF:-1 group-title="ACCION; FICCION",RESULTADO FINAL: TRAILER
+https://www.youtube.com/watch?v=M57SSfSn8Mk
+
+#EXTINF:-1 group-title="ACCION; FICCION",RESULTADO FINAL
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Final.Score.HDR.Latino.mp4
 
 #EXTINF:-1 group-title="ACCION; FICCION",VENGANZA BAJO CERO: TRAILER
 https://www.youtube.com/watch?v=oRFrcU47AbE
@@ -46,11 +76,23 @@ https://www.youtube.com/watch?v=Kq_WhFF59jA
 #EXTINF:-1 group-title="DRAMA",ALPHA
 https://1fhjm2v.oloadcdn.net/dl/l/5Ue51eJWrSvbXvM3/eT8AZKTY--g/Alph4.2018-BRS-LATINO.avi.mp4?mime=true
 
+#EXTINF:-1 group-title="DRAMA",EL CANDIDATO: TRAILER
+https://www.youtube.com/watch?v=UQlWUlUr9vU
+
+#EXTINF:-1 group-title="DRAMA",EL CANDIDATO
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/El%20Candidato%20(2018)%20Latino%20FULL%20HD%20BDRIP-1080P.mp4
+
 #EXTINF:-1 group-title="DRAMA",EL PRIMER HOMBRE A LA LUNA: TRAILER
 https://www.youtube.com/watch?time_continue=19&v=jLSTwx1zeV4
 
 #EXTINF:-1 group-title="DRAMA",EL PRIMER HOMBRE A LA LUNA
 https://wowveryfast.verystream.net/stream/i2dTNXhguRm/iqXrxmQJRUZfeHmu/3c3dKJMfrl0WVPei7kn4LPpgSS7d-wR3UZIpUDMXg9VuR2wXQWhPHnXHn3W_AqcmX9wmZPUnwP55XmEsxL_QzuMU27BB4cvZe97puaW3eWEQEeFeE4dfhzeFRMYmlV3xQF3mfsPx8yYVJ9WmqSzyRsCzeZweU2zYwHH73sUsk9b8Pbc_2yqnKkqeEn-RuCbF0hi93RueDEAdm3aqo1sGuTz_YPgLb5VMCaUAp5FTjhYswybToi39X7TjUo7CnTFlZZ0S-nCfpsYwZz1NQr5ndSSz9GP9s_5taxiOkDhGyx8RY55nEaeI1TLVy7fh5ulnk2Pk21wroi8I69ovFFggEvJ3-4C70jwWzix4Bc5Bhehueg29r2KX2qhej7TnJCa7oEyJ8td4SblDF3VnK3-u4jfWFiMrsVqMA_YJCWRkTp8JbM5T1iY2l7wUu6KNETkW/f1rst.m4n.2018.hdrip.720p.castellano.mp4?mime=true
+
+#EXTINF:-1 group-title="DRAMA",EL REGRESO DE BEN: TRAILER
+https://www.youtube.com/watch?v=6FYIJD81PNA
+
+#EXTINF:-1 group-title="DRAMA",EL REGRESO DE BEN
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Ben.is.Back.2019.1080p.VOSE.avi.mp4
 
 
 
@@ -74,3 +116,9 @@ https://www.youtube.com/watch?time_continue=22&v=7x_m3SsDWnI
 
 #EXTINF:-1 group-title="THRILLER",LA MULA
 https://ph2dwa.oloadcdn.net/dl/l/cUcqfA-Qp2ZX963P/e15JqlX8n1g/th3.mul3.2018.hdrip.720p.latino.mp4?mime=true
+
+#EXTINF:-1 group-title="THRILLER",NACION CAUTIVA: TRAILER
+https://www.youtube.com/watch?v=UW-7EW-56UY
+
+#EXTINF:-1 group-title="THRILLER",NACION CAUTIVA
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Captive%20State.2019.720p%20Latino.mp4
