@@ -1,7 +1,16 @@
 #EXTM3U PELICULAS HD
 
-#EXTINF:-1,VENOM
+#EXTINF:-1 group-title="ACCION; FICCION",VENOM
 https://sourl.verystream.net/stream/gexxNeXEG9r/Aj7eGEc3m_rlxhPQ/EbNLELOvwAg_cIvqe0JIfkiF54vwVI82dwySeeLsIfwd6wWN8-4SFVi8XtbU4b2QB2bFpIslp1coJA3V_WCD9OWLUHkZZRTFRH1rbrj4xqhRghdk71XH45ZOo3nKKxGLHftm5NneKzuGimVvSgPJUFO9fBDddkHq7h-wPRgRsxxuBLY2OcM-OC8cmghfs6kmFn7sEIWtM-a-6cDJCo7qWybgkAqKMJt5kGc8APrv0WKqu_RYa9cmnEHsDbeHPxrJ4RPz8y3wWjMX1yB7KaBWnykvTAgUbEwIBtMKjpHJ65-sdUAL-8XZQDZsbaM6cuhLS7Rf5LwwNIjNzbjmj1y1pGhPjnVYG_bvi6s9fTt40KEGAYYr6SKewTYBsRrYUD4AoVGDIwVG9OlP1Zby0A8kUi3CSadTo_uwWpJtRnh40g1SwhLARnrVG53-Sw-tnbSN/v3n0m.2018.hdrip.720p.latino.mp4?mime=true
 
-#EXTINF:-1,JURASIC WORLD 2: EL REINO CAIDO
+#EXTINF:-1 group-title="ACCION; FICCION",JURASSIC WORLD 2: EL REINO CAIDO
 https://ohmorescarewow.verystream.net/stream/E23WYcrsRmH/-NTjUGpD1cOr4jy6/Xjp07hAe1rUOEyvKtSbXBWOBOiRsSqXym_z734FJ-Ct1-IHiI_vk6eaVz_pvn6V5okkCqjOKRpoFmJvtc8uedkJT5Qs4fn7I3Y5Pwd07rZiy2NaKAABCIVHoT1_6sEw7u2iX_BlGwbp66_vtV7D-4M_McjmtE5zcUmoqguTjA_fm6BWd3dRzElEsFfO4yyZjSD4kUMJexbBAhMZ9rerWumbUGdienTgCUuhmK3Hlgo6g0vU9IXO2yB3X6jDmmNTIplz6xAq2aiCtgdZwolTWzmqZbTY36t3_mLdqp-5g6HgDg_zoBvqe9-mWxovoN5IvxujlcIeuITgUgzRhj9lb2ah8U9Ntyh9k9zAN-Sk2Y2Oghzbn0WpTst-c5vy-8NYmPS6bmfgu3HqEPK4so1IvE8CFQVXPLNI26Vakd6rcLvNH_Hil-JBDYaA-gDk7nDiMc3EW-Fgx6PMYc5hIokJISq8VJQ36q4W3nDowFc5kBEg/jur4ss1c.w0rl.th3.f4ll3n.k1ngd0m.2018.hdrip.720p.latino.mp4?mime=true
+
+#EXTINF:-1 group-title="ACCION; FICCION",HUNTER KILLER: MISION SUBMARINO
+https://1fiag05.oloadcdn.net/dl/l/WtlnhUVGt1iWLvkc/OCB0f67td6k/Hunter.killer.2018.1080p-dual-lat-Pelis28.com.mp4?mime=true
+
+#EXTINF:-1 group-title="DRAMA",ALPHA: TRAILER
+https://www.youtube.com/watch?v=Kq_WhFF59jA
+
+#EXTINF:-1 group-title="DRAMA",ALPHA
+https://1fhjm2v.oloadcdn.net/dl/l/5Ue51eJWrSvbXvM3/eT8AZKTY--g/Alph4.2018-BRS-LATINO.avi.mp4?mime=true
