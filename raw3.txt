@@ -70,7 +70,7 @@ https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2S
 https://www.youtube.com/watch?v=lEG-2yT1YYM
 
 #EXTINF:-1 group-title="ACCION; FICCION",VENGANZA
-https://r2---sn-cvb7ln7z.c.drive.google.com/videoplayback?expire=1561426541&ei=LUIRXdrgH5eJ-AX2xYKoDw&ip=181.137.80.98&cp=QVNLU0VfVVVSQlhOOnVtTDJ2RnFmVS04M21heEdyQTJJbnIyaW5jdmtwaDh4VHUzUVl0b2lwRG0&id=a2ce74ccae45a5d2&itag=59&source=webdrive&requiressl=yes&mm=30&mn=sn-cvb7ln7z&ms=nxu&mv=u&mvi=1&pl=20&ttl=transient&susc=dr&driveid=1uueijVIX29GA38i-4WLq_j3dcd_gNDyW&app=explorer&mime=video/mp4&dur=5916.305&lmt=1548247608589302&mt=1561411867&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=ALgxI2wwRgIhANgg_x3HlGQXSdC132eqReax4dqGoIQ7rt5ivCcqK3eiAiEAiEX9zVZun7lIRAcDb8LDVS5Y-nF5p80rP3hrdU55iVU=&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRgIhAO-4kdvp_9kXbE2rDFwP-bRWxX9NVC2KMGjR9UQsllB7AiEA1DYsbNnajABshRywRrMLVyuads1PX8ZaZzt5AXS_ivg=&cpn=3DkCt7J3GS2WTuWp&c=WEB_EMBEDDED_PLAYER&cver=20190620
+https://content-na.drive.amazonaws.com/cdproxy/share/hyCfVCJD1CwMnbHpxgo0w2m80O2cj2V5ujaN7TJROag/nodes/D_LXFdYVRTyfjVsqaswGvg?nonce=i0S899M6B5kh58ocwAeSaoQ_ckQ5wrv8CX16CvukaGIKODKG7tYp2rYfpuJeoOUg
 
 #EXTINF:-1 group-title="ACCION; FICCION",VENGANZA BAJO CERO: TRAILER
 https://www.youtube.com/watch?v=oRFrcU47AbE
