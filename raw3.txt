@@ -1,5 +1,17 @@
 #EXTM3U PELICULAS HD
 
+#EXTINF:-1 group-title="ACCION; FICCION",AMERICAN ANIMALS: TRAILER
+https://www.youtube.com/watch?v=YNTHJJJDbTY
+
+#EXTINF:-1 group-title="ACCION; FICCION",AMERICAN ANIMALS
+https://ph2dqz.oloadcdn.net/dl/l/b8whhTyR3UDYVfC_/b1IEqxXJiYM/4m3r1c4n.4n1m4ls.1080p.Latino-PlusPeliculas.mkv.mp4?mime=true
+
+#EXTINF:-1 group-title="ACCION; FICCION",DESTROYER: TRAILER
+https://www.youtube.com/watch?v=NC9_ljhUECE
+
+#EXTINF:-1 group-title="ACCION; FICCION",DESTROYER
+https://ph2dp9.oloadcdn.net/dl/l/d98j6PA5HRZXWxa5/ivVIzto0pkw/D32trvcc10n.1080p.Latino-VerPelisToday.mkv.mp4?mime=true
+
 #EXTINF:-1 group-title="ACCION; FICCION",HUNTER KILLER: MISION SUBMARINO: TRAILER
 https://www.youtube.com/watch?v=RMNhOT2D8QU
 
@@ -54,6 +66,12 @@ https://www.youtube.com/watch?v=M57SSfSn8Mk
 #EXTINF:-1 group-title="ACCION; FICCION",RESULTADO FINAL
 https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Final.Score.HDR.Latino.mp4
 
+#EXTINF:-1 group-title="ACCION; FICCION",VENGANZA: TRAILER
+https://www.youtube.com/watch?v=lEG-2yT1YYM
+
+#EXTINF:-1 group-title="ACCION; FICCION",VENGANZA
+https://oqt1p3.oloadcdn.net/dl/l/1OMPAUveCbtZJeJx/bbZpax38zZo/tt5460530-PeliculasToday.mkv.mp4?mime=true
+
 #EXTINF:-1 group-title="ACCION; FICCION",VENGANZA BAJO CERO: TRAILER
 https://www.youtube.com/watch?v=oRFrcU47AbE
 
@@ -81,6 +99,12 @@ https://www.youtube.com/watch?v=UQlWUlUr9vU
 
 #EXTINF:-1 group-title="DRAMA",EL CANDIDATO
 https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/El%20Candidato%20(2018)%20Latino%20FULL%20HD%20BDRIP-1080P.mp4
+
+#EXTINF:-1 group-title="DRAMA",EL DUODECIMO HOMBRE: TRAILER
+https://www.youtube.com/watch?v=3U0sl4k2u1E
+
+#EXTINF:-1 group-title="DRAMA",EL DUODECIMO HOMBRE
+https://1fgm8r0.oloadcdn.net/dl/l/Ykq5Rdw8j_N4DhBK/oGFolGuWvjY/Th3.12th.M4n.1080p.Latino-PlusPeliculas.mkv.mp4?mime=true
 
 #EXTINF:-1 group-title="DRAMA",EL PRIMER HOMBRE A LA LUNA: TRAILER
 https://www.youtube.com/watch?time_continue=19&v=jLSTwx1zeV4
