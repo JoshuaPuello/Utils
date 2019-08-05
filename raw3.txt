@@ -1,7 +1,10 @@
 #EXTM3U PELICULAS HD
 
 #EXTINF:-1 group-title="ACCION; FICCION",AVENGERS ENDGAME
-https://www25.hlsmp4.com/token=5koAB5LzGdhEq6s6fcUJTA/1564982048/0.0.0.0/61/c/46/22b6ea4f37b797e4a6eb0b0c1801646c-720p.mp4
+https://www1933.hlsmp4.com/token=blYdV3h_i0E8vtkX7TQsaQ/1564982575/0.0.0.0/63/4/ef/5a9164b9e9f48e5a7663dcd64f0baef4-1080p.mp4
+
+#EXTINF:-1 group-title="ACCION; FICCION",AVENGERS ENDGAME 1080P
+https://www1770.hlsmp4.com/token=jvX_KI6ilyQu7oS6DmWpTg/1564982840/0.0.0.0/62/8/ff/7d4dd96181ca90be8830ccda1ee8bff8-1080p.mp4
 
 #EXTINF:-1 group-title="ACCION; FICCION",AMERICAN ANIMALS: TRAILER
 https://www.youtube.com/watch?v=YNTHJJJDbTY
