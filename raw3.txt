@@ -1,5 +1,5 @@
 #EXTM3U PELICULAS HD
 
 
-#EXTINF:-1 group-title="ACCION; FICCION",JOHN WICK 3
-https://wowveryrapid.verystream.net/stream/M9U9k8wmNVf/5oi-cd7mckZ_y6D_/yR9uzMaHI-qCuGwWEE9zAGWqIG59WtGAykO7UTo3LG6y6BMc10wmF9PuHPDHfrY8D-L5kveveJX0UbW7IKGohgRnZ8pr7ddQDN_fy7Y7L4Zl3s1kzzeQqQGVe1an0xUsUueCtuYBU4nrRyBD_k0M3QHKZZH5cEIQTWQi_HOPr_luD1aNeFAQpzCY_m4__UdDDzmWWkYYQbsPwJDSIAVmxkf6yyTRQhubXZl9iOadKVfSLJOFdJ6ZrEbkiF6gtvmCVbF4wx4g7luLqwkRcZNFe6Wxv0wMcBLPWEMFmTEJcj3N0T7jGQA1sWoDRG0qizO53QRu7Ys8WpQAmlXefVeYbQDF_ITX-ZSxyVk5_7-kiwEnyiKd3GTXELCtSzswr5kRTRxxBDA1-OfKMJfZtiEbxkLoQusDuRcUyTzx0r3PQdvDb6Omp6Ab47IklPUnVa4ZauOVjyz-kUYCR9rpjeGk7A/j0hn.w1ck.3.p4b3llum.2019.brrip.720p.latino.mp4?mime=true
+#EXTINF:-1 group-title="ACCION; FICCION",LA ISLA SINIESTRA
+https://www254.hlsmp4.com/token=OfPRJsEWwla1nIqtbIacaA/1570333908/181.137.0.0/18/7/34/04ba8e2e3fab32a80612a26aa76f5347-720p.mp4
