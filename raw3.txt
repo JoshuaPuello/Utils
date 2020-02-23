@@ -1,5 +1,5 @@
 #EXTM3U PELICULAS HD
 
 
-#EXTINF:-1 group-title="PP",PP
+#EXTINF:-1 group-title="PP..",PPL
 https://www681.o0-2.com/token=hh2oJ9rDw_m4wSL4c3F8bQ/1582514581/201.233.0.0/75/0/5d/be582043b84536691d0b8992317775d0-720p.mp4
