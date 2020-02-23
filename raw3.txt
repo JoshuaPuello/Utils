@@ -1,5 +1,5 @@
 #EXTM3U PELICULAS HD
 
 
-#EXTINF:-1 group-title="P",P
+#EXTINF:-1 group-title="PPP",PPP
 https://r5---sn-cvb7ln7z.googlevideo.com/videoplayback?expire=1582503691&ei=6_pSXoKYAdiW1gLxn4eIDQ&ip=116.203.211.239&id=54d3b8b8c9a9279d&itag=18&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=7908.925&lmt=1582480522440151&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=ADKhkGMwRgIhAN47GjznjXP5JuYwt_zxYxJufnpSPnojCYBhCdy9wyUSAiEAr6HQ7N-VqP3rTtlH_e3cHxudkKJBctvcC9At1h-WcWQ=&cms_redirect=yes&mip=201.233.192.196&mm=30&mn=sn-cvb7ln7z&ms=nxu&mt=1582499635&mv=u&mvi=4&pl=21&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRQIhAJ6bYIkftGfgTyuxgYXLZTJb5MIiDVN3iJ1sJxYYhmivAiAnJOT4RoEat7s_b-w6eNNaShxlAjGGmmU8G8Akh8gfgg%3D%3D
