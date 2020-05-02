@@ -1,5 +1,6 @@
 #EXTM3U PELICULAS HD
 
 
-#EXTINF:-1 group-title="LAT",CC
-https://stream99.uqload.com/3rfk5apda5w2q4drdkqpflvmbrir5gvgb3brjzzhql5bcijl4veiumxcwf4q/v.mp4
+#EXTINF:-1 group-title="LAT",BB
+https://stream99.uqload.com/3rfk5v4ua5w2q4drdktpfmvslvwalkl65ap7ymvzm3rmarm7wqosspnupzaa/v.mp4
+
