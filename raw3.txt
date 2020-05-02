@@ -1,5 +1,9 @@
 #EXTM3U PELICULAS HD
 
 
-#EXTINF:-1 group-title="BBB",BBB
-https://www854.o0-2.com/token=JEJ-GtkOcI21ZGjb39UPWw/1587352480/201.233.0.0/105/c/9d/e46128ee62eadbc4703fa7ce4878c9dc-480p.mp4
+#EXTINF:-1 group-title="LAT",BBB
+https://storage.googleapis.com/eng-ridge-274919.appspot.com/4ea8bc8ee2be682845858d302d75864c.mp4
+
+
+#EXTINF:-1 group-title="SUB",BBB
+https://storage.googleapis.com/eng-ridge-274919.appspot.com/f603a24a028596253c6047261ab8fed9.mp4
