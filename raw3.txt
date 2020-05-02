@@ -1,6 +1,5 @@
 #EXTM3U PELICULAS HD
 
 
-#EXTINF:-1 group-title="LAT",BB
-https://stream99.uqload.com/3rfk5v4ua5w2q4drdktpfmvslvwalkl65ap7ymvzm3rmarm7wqosspnupzaa/v.mp4
-
+#EXTINF:-1 group-title="LAT",EE
+https://storage.googleapis.com/iron-fountain-266419.appspot.com/3W1pLOm2yzG-storage.mp4
