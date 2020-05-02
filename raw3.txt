@@ -1,9 +1,5 @@
 #EXTM3U PELICULAS HD
 
 
-#EXTINF:-1 group-title="LAT",BB
-https://storage.googleapis.com/eng-ridge-274919.appspot.com/4ea8bc8ee2be682845858d302d75864c.mp4
-
-
-#EXTINF:-1 group-title="SUB",BBB
-https://storage.googleapis.com/eng-ridge-274919.appspot.com/f603a24a028596253c6047261ab8fed9.mp4
+#EXTINF:-1 group-title="LAT",CC
+https://stream99.uqload.com/3rfk5apda5w2q4drdkqpflvmbrir5gvgb3brjzzhql5bcijl4veiumxcwf4q/v.mp4
