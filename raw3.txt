@@ -1,8 +1,5 @@
 #EXTM3U PHD
 
 
-#EXTINF:-1 group-title="LT",DD
-https://storage.googleapis.com/iron-fountain-266419.appspot.com/XaJV8byMla5-storage.mp4
-
-#EXTINF:-1 group-title="LT1",RR
-https://storage.googleapis.com/iron-fountain-266419.appspot.com/3W1pLOm2yzG-storage.mp4
+#EXTINF:-1 group-title="09",BB
+https://storage.googleapis.com/atomic-saga-252618.appspot.com/hash/MXdNZDBJSUdLVWN1ZlhxT0hZRFg3Zz09.mp4
